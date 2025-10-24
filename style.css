@@ -11,7 +11,7 @@
   --text-color:#fff;
   --bg-color:#1b1f24;
   --second-bg-color:#22282f;
-  --main-color:#13bbff;
+  --main-color:#efc1a9;
   --other-color:#c3cad5;
   --h1-font:3.5rem;
   --p-font:1rem;
@@ -148,13 +148,13 @@ font-size: 25px;
 .main-content p {
     font-weight: 900;
     max-width: 620px;
-    color: lch(38 23.5 166.43);
+    color: #efc1a9;
     line-height: 30px;
     font-style: var(--p-font);
     font-family: 'Inter', sans-serif;
 }
 .main-content strong {
-    color: var(--main-color);
+    color: #075fe4;
     font-size: 30px;
 }
 
@@ -169,7 +169,7 @@ font-size: 25px;
     justify-content: center;
     width: 70px;      /* زيادة من 40px */
     height: 70px;     /* زيادة من 40px */
-    color: #46b5ff;
+    color: #efc1a9;
     border-radius: 50%;
     backdrop-filter: brightness(50%);
     font-size: 24px;  /* زيادة من 20px */
@@ -462,7 +462,7 @@ padding: 15px 18px;
 }
 
 .portfolio .center-text span {
-    color: #13bbff;
+    color: #efc1a9;
 }
 
 .pad-social {
@@ -688,7 +688,7 @@ form .send-btn:hover {
 }
 
 .contact-info h2 span {
-  color: var(--main-color, #00b4d8);
+  color: #efc1a9;
 }
 
 .info-item {
@@ -699,7 +699,7 @@ form .send-btn:hover {
 
 .info-item i {
   font-size: 28px;
-  color: var(--main-color, #00b4d8);
+  color: #efc1a9;
   flex-shrink: 0;
 }
 
@@ -735,7 +735,7 @@ form .send-btn:hover {
 }
 
 .contact-form button.btn {
-  background: var(--main-color, #00b4d8);
+  background: #efc1a9;
   color: #fff;
   padding: 12px 25px;
   font-size: 16px;
@@ -746,7 +746,7 @@ form .send-btn:hover {
 }
 
 .contact-form button.btn:hover {
-  background: #0a6fd8;
+  background: #efc1a9;
   transform: translateY(-2px);
 }
 
@@ -816,7 +816,7 @@ color: var(--other-color);
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: #075fe4;
+    background: #efc1a9;
     width: 45px;
     height: 45px;border-radius: 50%;
     color: var(--text-color);
@@ -1349,7 +1349,7 @@ color: var(--other-color);
   top: 50%;
   transform: translateY(-50%);
   font-size: 28px;
-  color: var(--main-color, #00b4d8);
+  color: #efc1a9;
   transition: transform 0.3s ease;
 }
 
